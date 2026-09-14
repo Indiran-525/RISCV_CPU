@@ -70,6 +70,5 @@ RISC V ISA
 
 Digital logic design
 
-Memory mapped I O
 
 UART communication
